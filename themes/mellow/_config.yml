@@ -100,7 +100,7 @@ menu:
     text: 网盘
     url: http://netdisk.cacl2.ml/
     target: _blank
-    icon: hdd
+    icon: network
   github:
     url: https://github.com/lvhuagai
     target: _blank
@@ -196,36 +196,18 @@ blogroll:
     name: MOCEの哲
     url: http://mocehu.xyz/
   item2:
-    name: 易折
-    url: http://zhetoo.com/
-  item3:
-    name: Syllo's star
-    url: https://sylleo.coding.me/
-  item4:
-    name: Blinkstar
-    url: http://www.blinkstar.cn/
-  item5:
-    name: AgNO3'Blogs
-    url: https://hhhxiao.github.io/
-  item6:
     name: 小学长
     url: https://imxxz.cn/
-  item7:
+  item3:
     name: LWB
     url: http://lwb.life/
-  item8:
+  item4:
     name: 爱分享pro
     url: https://ifxpro.cn/
-  item9:
+  item5:
     name: 苏小哎导航
     url: https://link123.xyz
-  item10:
-    name: 番剧猫
-    url: https://fanjumao.com
-  item11:
-    name: 梁sir
-    url: https://5sir.cn
-  iteam12:
+  item6:
     name: 留言之地
     url: http://zilih.xyz
 
