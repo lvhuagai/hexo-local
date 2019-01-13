@@ -1,6 +1,6 @@
 ﻿---
 title: C++逻辑表达式
-date: 2019-01-04 18:37:05
+date: 2019-01-05 18:37:05
 tags: 计算机编程
 src:
 comments: true
@@ -42,7 +42,7 @@ int main{
 		cout<<"1"<<endl;
 	}
 	else{
-		cout<<"0"endl;
+		cout<<"0"<<endl;
 	}
 	//逻辑或，输出结果为1
 	return 0;
